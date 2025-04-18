@@ -26,13 +26,13 @@ Throughout the program, I worked with several programming languages and technolo
 
 An initial code review was performed on the artifact. The purpose of the code review was to identify the enhancements that could be made to the code. The main enhancements that I planned were:
 
-Porting code over to Python instead of Java
+Adding extra functionlity to the Java Code
 Adding Pandas dataframe functionality instead of class management
 Adding database functionality to store data before closing the application
 Adding a main function to function as the application.
 
 Software Design
-The main enhancement for my software design was porting my code over to Python. To implement this, I took my Java classes and created accompanying pseudocode. Then I enhanced the sourcde code in Java to add additional functinalities.
+The main enhancement for my software design was adding code to expand the finctionality of my application. To implement this, I took my Java classes and created accompanying pseudocode. Then I enhanced the sourcde code in Java to add additional functinalities.
 
 Algorithms and Data Structure
 One addition I had to make was adding a main function to the application. This could then perform the main logic for the application. I also implemented Pandas dataframe structuring to handle my application data and search results.
