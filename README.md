@@ -1,11 +1,11 @@
 # Mahalii.github.io
 
-Alireza Alex Mehr
-CS-499 Computer Science Capstone
-Spring 2025
-Southern New Hampshire University
+# Alireza Alex Mehr
+# CS-499 Computer Science Capstone
+# Spring 2025
+# Southern New Hampshire University
 
-Personal Self-assessment
+# Personal Self-assessment
 
 My journey through the Computer Science program at Southern New Hampshire University has been both demanding and incredibly fulfilling. Before enrolling, I had no background in software engineering. Currently, I serve as a Project Manager at a healthcare company and have previously worked as a software engineer. This transition marked a pivotal shift in my career—one that required me to think creatively, problem-solve effectively, and adapt quickly. It was this desire for growth that led me to pursue a Bachelor's degree in Computer Science with a concentration in Software Engineering.
 
@@ -15,13 +15,13 @@ From the beginning, I was prepared for the hard work and long nights. There were
 
 Throughout the program, I worked with several programming languages and technologies. Java became my primary language, and although I still have more to learn, I’ve grown confident in my abilities and eager to improve further. I also explored MySQL, where I rebuilt a messaging app originally created in Codio, using Sublime Text to enhance both its structure and functionality. My journey began with Python, which felt intuitive, but C++ introduced new challenges. Then came Java, which offered the structure of C++ but with concepts I found more approachable and easier to master.
 
-Repository Contents
+# Repository Contents
 1- Code Review Video
 2- Enhancement Narratives
 3- Source Code
 4- Professional Self-Assessment
 
-Code Review: 
+# Code Review: 
 
 An initial code review was performed on the artifact. The purpose of the code review was to identify the enhancements that could be made to the code. The main enhancements that I planned were:
 
