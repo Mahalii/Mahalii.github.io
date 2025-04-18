@@ -44,4 +44,9 @@ The final addition was implementing a CRUD functionality for MongoDB database at
 # Github pages : 
 https://mahalii.github.io/
 
+# Code review Youtube Links:
+https://youtu.be/DdP3_d-nRuM
+
+https://youtu.be/rchyZym_jeg
+
 
