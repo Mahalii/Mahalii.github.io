@@ -40,3 +40,8 @@ Databases
 The final addition was implementing a CRUD functionality for MongoDB database at the end of the application. This allows the data to be added, deleted, updated and found. It takes the dataframe and stores it as a database table.
 
 
+
+# Github pages : 
+https://mahalii.github.io/
+
+
