@@ -1,9 +1,9 @@
 # Mahalii.github.io
 
 # Alireza Alex Mehr
-# CS-499 Computer Science Capstone
+  CS-499 Computer Science Capstone
   04-17-2025
-# Southern New Hampshire University
+  Southern New Hampshire University
 
 # Personal Self-assessment
 
